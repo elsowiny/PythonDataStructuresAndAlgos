@@ -1,1 +1,1 @@
-# Sample algos and ds from aroudn the internet.
+# Sample algos and ds from around the internet.
